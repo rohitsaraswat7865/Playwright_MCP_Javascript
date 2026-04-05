@@ -2,10 +2,6 @@
 
 ## Test Scenarios
 
-### 1. Adding New Todos
-
-**Seed:** `tests/seed.spec.ts`
-
 #### 1.1 Login and Verify
 
 **Preconditions:**
@@ -17,7 +13,7 @@
 1. Navigate to https://www.saucedemo.com/
 2. Enter Username as "standard_user"
 3. Enter Password as "secret_sauce"
-4. Click login button, use locator
+4. Click login button
 5. Page loads, Wait until network is idle and url contains substring as inventory
 
 **Expected Results:**
