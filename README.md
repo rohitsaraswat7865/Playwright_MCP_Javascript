@@ -108,6 +108,7 @@ npx playwright show-report
 ├── package.json                    # Project dependencies
 └── README.md                       
 ```
+<img width="1909" height="1020" alt="image" src="https://github.com/user-attachments/assets/4581e2c4-95af-430a-9464-2f6400eaec8f" />
 
 ## 📊 Test Reports
 
