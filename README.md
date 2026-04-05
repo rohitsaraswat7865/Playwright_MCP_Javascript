@@ -1,12 +1,12 @@
-# Playwright_GitHub_Copilot_SelfHealing_Javascript
+# Playwright_MCP_Javascript
 
-Automated browser testing suite using **Playwright Test Generator Agent**.
+Automated browser testing suite using **Playwright MCP - Test Generator Agent**.
 
 ## Overview
 
 This project contains end-to-end automated tests for the Swag Labs e-commerce application. Tests are written in TypeScript using Playwright's testing framework and executed in headed mode for visibility during test runs. Refer - https://playwright.dev/docs/test-agents
 
-**Test Generation**: Tests are automatically generated using the **Playwright Test Generator Agent**, which records user interactions and generates reliable test code.
+**Test Generation**: Tests are automatically generated using the **Playwright MCP - Test Generator Agent**, which records user interactions and generates reliable test code.
 
 **Self-Healing**: The test suite utilizes **Playwright Self-Healing Agents** to automatically fix broken locators, reducing maintenance overhead and improving test stability.
 
